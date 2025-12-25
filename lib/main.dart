@@ -177,10 +177,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   color: Color(0xFF162660),
                   fontSize: 16,
                 ),
-                prefixIcon: const Icon(
-                  Icons.attach_money,
-                  color: Color(0xFF162660),
-                ),
+               
                 filled: true,
                 fillColor: Colors.white,
                 border: OutlineInputBorder(
